@@ -2,10 +2,6 @@
 
 A simple and interactive web application to search for recipes using **HTML, CSS, and JavaScript**. Users can find recipes by entering a keyword, view recipe details, and enjoy a clean, responsive interface.
 
-## Demo
-
-*(Optional: Add a link if hosted online)*
-
 ## Features
 
 - Search for recipes by keyword.
